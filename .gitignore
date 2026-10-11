@@ -1,0 +1,10 @@
+data/
+*.bam
+*.fastq.gz
+*.vcf.gz
+*.h5ad
+.Rhistory
+.RData
+__pycache__/
+.ipynb_checkpoints/
+.env
